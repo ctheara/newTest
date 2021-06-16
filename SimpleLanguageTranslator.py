@@ -10,6 +10,8 @@ import pydub  # used to load a WAV file
 import pydub.playback  # used to play a WAV file
 import wave  # used to save a WAV file
 
+# this is a get line and comment
+
 def run_translator():
     """Calls the functions that interact with Watson services."""
     # Step 1: Prompt for then record English speech into an audio file
